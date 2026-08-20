@@ -1,0 +1,5 @@
+interface:
+  display_name: "CMS Debate Kit"
+  short_description: "발췌문 기반 토론 자료 제작과 원문·문단 인용 검증 워크플로우"
+  default_prompt: "Use $cms-debate-kit to turn a supplied book excerpt into a debate topic, evidence cards, worksheet, rubric, and citation audit."
+
